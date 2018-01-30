@@ -1,5 +1,4 @@
-# ebad-agent-executor
-JMS Agent to execute local batch
+# ebad-parent
 
 ## Usefull Library
 Lombok
